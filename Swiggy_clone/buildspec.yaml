@@ -102,5 +102,5 @@ phases:
 
 artifacts:
   files:
-    - appspec.yaml  # Upload the appspec.yaml file after build
+    - Swiggy_clone/appspec.yaml  # Upload the appspec.yaml file after build
 
